@@ -82,6 +82,9 @@
       <div class="max-w-7xl mx-auto px-6 lg:px-8">
         <div class="text-center mb-16">
           <h2 class="text-4xl font-bold text-gray-900 mb-4">Tentang KIP-Kuliah</h2>
+          <!-- Tambahan Cindy -->
+          <p>Ini tambahan baris baru dari Cindy</p>
+
           <p class="text-lg text-gray-600">
             Membuka akses pendidikan tinggi yang lebih merata bagi seluruh generasi muda Indonesia.
           </p>
