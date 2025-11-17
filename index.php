@@ -95,6 +95,8 @@
           <!-- Box kiri -->
           <div class="bg-white rounded-2xl shadow-lg p-8 hover:shadow-2xl transition duration-300 border border-purple-100">
             <h3 class="text-2xl font-bold text-primary-mid mb-6">Apa itu KIP-Kuliah?</h3>
+            <!-- Tambahan Vina -->
+            <p>Ini tambahan baris baru dari Vina</p>
             <p class="text-gray-700 mb-6 leading-relaxed text-justify">
               KIP-K merupakan bentuk dukungan biaya pendidikan berupa bantuan tunai yang ditujukan bagi siswa yang berkeinginan melanjutkan studi ke perguruan tinggi.
               Program ini digagas pemerintah untuk membuka akses pendidikan tinggi yang lebih luas bagi masyarakat kurang mampu,
