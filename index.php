@@ -104,6 +104,8 @@
             </p>
             <div class="bg-gradient-to-r from-purple-50 to-indigo-50 p-6 rounded-xl border border-purple-100">
               <h4 class="font-semibold text-primary-mid mb-3">Manfaat KIP-Kuliah:</h4>
+              <!-- Tambahan  Putrianggraini -->
+            <p>Ini tambahan baris baru dari Putrianggraini</p>
               <ul class="space-y-2 text-gray-700">
                 <li class="flex items-center"><span class="text-green-500 mr-2">✔</span> Pembebasan biaya pendidikan</li>
                 <li class="flex items-center"><span class="text-green-500 mr-2">✔</span> Bantuan biaya hidup</li>
